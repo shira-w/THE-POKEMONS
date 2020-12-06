@@ -1,0 +1,23 @@
+.div-wrapper {
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+
+.div-wrapper img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    scale: 50px;
+}
+
+body{
+    background: pink;
+
+}
+
+div {
+    font-style: italic;
+
+    font-size-adjust: 0.58;
+  }
